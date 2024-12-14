@@ -11,4 +11,4 @@ Project Overview : Registration Form
 
 Technology Used : HTML & CSS
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/Registration-Form/blob/595f4c8069edaf5c8d118cade68756862abb2a6b/Output.png)
